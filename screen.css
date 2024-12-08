@@ -61,3 +61,13 @@ main{
     padding-bottom: 10px;
     padding-right: 20px;
 }
+
+.event section h4{
+    text-decoration-line: underline;
+}
+
+.event section img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
