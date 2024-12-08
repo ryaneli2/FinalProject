@@ -2,6 +2,7 @@
 body{
     background: #e4e9b4;
     font-family: 'Courier New', Courier, monospace;
+    border-top: 15px solid #424242;
     margin: 0 auto;
     padding: 0 300px 0 300px;
 }
