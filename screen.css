@@ -124,6 +124,11 @@ main{
     margin-right: auto;
     border-radius: 20px;
     margin-bottom: 20px;
+
+}
+
+.Ev img:hover{
+    border-color: white;
 }
 
 .about section{
