@@ -38,9 +38,12 @@ main{
 
 .clubs section h4{
     text-decoration-line: underline;
+}
 
-    /*
-    border-bottom: 2px solid #424242;
-    border-width: 2px 200px;
-    */
+.forms section h3{
+    text-align: center;
+}
+
+.forms section form{
+    text-align: center;
 }
