@@ -19,5 +19,8 @@ main{
 .banner section{
     background-color: #c2d77f;
     border-radius: 20px;
-    padding: 50px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-right: 50px;
 }
