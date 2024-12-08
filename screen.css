@@ -71,3 +71,24 @@ main{
     margin-left: auto;
     margin-right: auto;
 }
+
+.event2 section{
+    background-color: #c2d77f;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+.event2 section h4{
+    text-decoration-line: underline;
+}
+
+.event2 section img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
