@@ -40,6 +40,10 @@ main{
     text-decoration-line: underline;
 }
 
+.forms section{
+    border-top: 5px solid #424242;
+}
+
 .forms section h3{
     text-align: center;
 }
