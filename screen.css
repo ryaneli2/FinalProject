@@ -103,6 +103,7 @@ main{
 @media (hover: hover){
     a:hover{
         color: white;
+        border-color: white;
     }
 }
 
