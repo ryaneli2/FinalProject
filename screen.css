@@ -1,14 +1,14 @@
 /*CSS file*/
 @media (dynamic-range: standard) {
     p {
-      color: red;
+      color: #000000;
     }
   }
   
 body{
     background: #e4e9b4;
     font-family: 'Courier New', Courier, monospace;
-    border-top: 15px solid #424242;
+    border-top: 15px solid #000000;
     margin: 0 auto;
     padding: 0 300px 0 300px;
 }
@@ -47,7 +47,7 @@ main{
 }
 
 .forms section{
-    border-top: 5px solid #424242;
+    border-top: 5px solid #000000;
 }
 
 .forms section h3{
