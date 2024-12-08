@@ -11,3 +11,12 @@ main{
     margin: 0 auto;
     width: 800px;
 }
+
+.banner section h1{
+    text-align: right;
+}
+
+.banner section{
+    background-color: #c2d77f;
+    border-radius: 20px;
+}
