@@ -135,6 +135,8 @@ main{
 .about section{
     background-color: #a4b65d;
     margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
     border-radius: 10px;
     padding-top: 10px;
     padding-left: 20px;
