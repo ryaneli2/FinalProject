@@ -1,4 +1,10 @@
 /*CSS file*/
+@media (dynamic-range: standard) {
+    p {
+      color: red;
+    }
+  }
+  
 body{
     background: #e4e9b4;
     font-family: 'Courier New', Courier, monospace;
