@@ -94,3 +94,9 @@ main{
     border-radius: 20px;
 }
 
+@media (hover: hover){
+    a:hover{
+        color: white;
+    }
+}
+
