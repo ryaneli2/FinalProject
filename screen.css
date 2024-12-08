@@ -18,6 +18,7 @@ main{
 
 .banner section{
     background-color: #7c894d;
+    margin-top: 20px;
     border-radius: 20px;
     padding-top: 10px;
     padding-left: 20px;
@@ -27,6 +28,7 @@ main{
 
 .clubs section{
     background-color: #c2d77f;
+    margin-top: 20px;
     border-radius: 10px;
     padding-top: 10px;
     padding-left: 20px;
